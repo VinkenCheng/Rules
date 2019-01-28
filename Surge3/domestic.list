@@ -14,19 +14,11 @@ USER-AGENT,WeChat*
 // Beplay
 DOMAIN-KEYWORD,beplay
 
-// Blizzard
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
-
 // Prior
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,edu.cn
-
-// Steam
-DOMAIN-SUFFIX,steamcontent.com
 
 // TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
@@ -75,7 +67,6 @@ DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,aweme.snssdk.com
 DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,beatsbydre.com
@@ -132,7 +123,6 @@ DOMAIN-SUFFIX,images.unsplash.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,img4me.com
 DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,ixdzs.com
 DOMAIN-SUFFIX,jd.com
@@ -211,7 +201,6 @@ DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
-DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,store.steampowered.com
