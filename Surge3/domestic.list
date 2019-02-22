@@ -1,18 +1,7 @@
-// Client
-PROCESS-NAME,ss-local
-
-// UA
-USER-AGENT,hide*
-USER-AGENT,MicroMessenger*
-USER-AGENT,PayPal*
-USER-AGENT,TeamViewer*
-USER-AGENT,TIM*
-USER-AGENT,ting_en
-USER-AGENT,WebTorrent*
-USER-AGENT,WeChat*
-
-// Beplay
-DOMAIN-KEYWORD,beplay
+// Custom
+DOMAIN-SUFFIX,github.io,Domestic
+DOMAIN-SUFFIX,githubapp.com,Domestic
+DOMAIN-SUFFIX,githubusercontent.com,Domestic
 
 // Blizzard
 DOMAIN-SUFFIX,battle.net
@@ -272,6 +261,22 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
+
+// Beplay
+DOMAIN-KEYWORD,beplay
+
+// Client
+PROCESS-NAME,ss-local
+
+// UA
+USER-AGENT,hide*
+USER-AGENT,MicroMessenger*
+USER-AGENT,PayPal*
+USER-AGENT,TeamViewer*
+USER-AGENT,TIM*
+USER-AGENT,ting_en
+USER-AGENT,WebTorrent*
+USER-AGENT,WeChat*
 
 // Accelerate direct sites
 DOMAIN-KEYWORD,torrent

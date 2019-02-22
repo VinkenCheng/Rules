@@ -1,21 +1,5 @@
-// Client
-PROCESS-NAME,Backup and Sync
-PROCESS-NAME,Day One
-PROCESS-NAME,Dropbox
-PROCESS-NAME,LINE
-PROCESS-NAME,node-webkit
-PROCESS-NAME,Resilio Sync
-PROCESS-NAME,Tweetbot
-PROCESS-NAME,Twitter
-PROCESS-NAME,Twitterrific
-
-// UA
-USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
-USER-AGENT,AwemeI18n*
-USER-AGENT,Coinbase*
-USER-AGENT,Instagram*
-USER-AGENT,Resilio Sync*
-USER-AGENT,WhatsApp*
+// Custom
+DOMAIN,gist.github.com
 
 // Line
 DOMAIN-SUFFIX,lin.ee
@@ -599,17 +583,6 @@ DOMAIN-SUFFIX,zeutch.com
 DOMAIN-SUFFIX,zynamics.com
 
 // Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-DOMAIN-KEYWORD,appledaily
-DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,porn
-DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,abc.xyz
@@ -656,6 +629,38 @@ DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webrtc.org
+
+// Keyword
+DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+// DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,google
+
+// Client
+PROCESS-NAME,Backup and Sync
+PROCESS-NAME,Day One
+PROCESS-NAME,Dropbox
+PROCESS-NAME,LINE
+PROCESS-NAME,node-webkit
+PROCESS-NAME,Resilio Sync
+PROCESS-NAME,Tweetbot
+PROCESS-NAME,Twitter
+PROCESS-NAME,Twitterrific
+
+// UA
+USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
+USER-AGENT,AwemeI18n*
+USER-AGENT,Coinbase*
+USER-AGENT,Instagram*
+USER-AGENT,Resilio Sync*
+USER-AGENT,WhatsApp*
 
 // Amazon
 IP-CIDR,13.32.0.0/16,no-resolve
