@@ -1,0 +1,19 @@
+// Blizzard
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+USER-AGENT,Blizzard*
+USER-AGENT,wowcompanion*
+
+// Pokemon
+USER-AGENT,pokemonquest*
+
+// Steam
+# DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+# DOMAIN-SUFFIX,steamcommunity.com
+# DOMAIN-SUFFIX,steampowered.com
+# DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamcontent.com
+USER-AGENT,Steam*
+PROCESS-NAME,steam_osx
