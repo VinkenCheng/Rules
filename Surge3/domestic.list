@@ -1,12 +1,10 @@
 // Custom
-DOMAIN-SUFFIX,github.io,Domestic
-DOMAIN-SUFFIX,githubapp.com,Domestic
-DOMAIN-SUFFIX,githubusercontent.com,Domestic
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubusercontent.com
 
-// Blizzard
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
+// ttmeiju
+DOMAIN-SUFFIX,ttmeiju.vip
 
 // Prior
 DOMAIN,client.amplifi.com
