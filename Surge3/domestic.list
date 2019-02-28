@@ -4,9 +4,17 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+USER-AGENT,Aweme*
+USER-AGENT,ASUS*
 
-// ttmeiju
-DOMAIN-SUFFIX,ttmeiju.vip
+// Spark
+DOMAIN,usage.readdle.com
+DOMAIN,api.amplitude.com
+# DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
+USER-AGENT,Spark*
+PROCESS-NAME,Spark
 
 // Prior
 DOMAIN,client.amplifi.com
@@ -211,6 +219,7 @@ DOMAIN-SUFFIX,tmzvps.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,ttmeiju.com
+DOMAIN-SUFFIX,ttmeiju.vip
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,umengcloud.com

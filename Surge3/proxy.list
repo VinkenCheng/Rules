@@ -2,6 +2,10 @@
 DOMAIN,gist.github.com
 DOMAIN-SUFFIX,macserialjunkie.com
 
+// Spark
+DOMAIN,app.smartmailcloud.com
+# DOMAIN-SUFFIX,smartmailcloud.com
+
 // Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
