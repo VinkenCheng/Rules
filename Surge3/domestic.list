@@ -9,8 +9,6 @@ USER-AGENT,ASUS*
 
 // Spark
 DOMAIN,usage.readdle.com
-DOMAIN,api.amplitude.com
-# DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,hockeyapp.net
 USER-AGENT,Spark*

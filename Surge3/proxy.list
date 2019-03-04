@@ -3,6 +3,8 @@ DOMAIN,gist.github.com
 DOMAIN-SUFFIX,macserialjunkie.com
 
 // Spark
+DOMAIN,api.amplitude.com
+# DOMAIN-SUFFIX,amplitude.com
 DOMAIN,app.smartmailcloud.com
 # DOMAIN-SUFFIX,smartmailcloud.com
 
