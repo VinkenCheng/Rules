@@ -1,6 +1,7 @@
 // Custom
 DOMAIN,gist.github.com
 DOMAIN-SUFFIX,macserialjunkie.com
+DOMAIN-SUFFIX,01.org
 
 // Spark
 DOMAIN,api.amplitude.com
