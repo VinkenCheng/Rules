@@ -1,5 +1,9 @@
 # Ads in Video apps
 
+// TicTok
+DOMAIN,mon.musical.ly
+
+
 // iqiyi & pps
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
 DOMAIN-SUFFIX,ad.m.iqiyi.com
