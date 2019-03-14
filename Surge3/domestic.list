@@ -12,7 +12,6 @@ USER-AGENT,ASUS*
 
 // Spark
 DOMAIN,usage.readdle.com
-DOMAIN-SUFFIX,firebaseio.com
 USER-AGENT,Spark*
 PROCESS-NAME,Spark
 
