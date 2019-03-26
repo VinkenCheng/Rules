@@ -31,9 +31,7 @@ IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
 
-
 # Domestic
-
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net
@@ -51,7 +49,6 @@ DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,adobesc.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
-DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,alicdn.com
@@ -105,6 +102,7 @@ DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,ewqcxz.com
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fir.im
+DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,fresh-ideas.cc
 DOMAIN-SUFFIX,geetest.com
