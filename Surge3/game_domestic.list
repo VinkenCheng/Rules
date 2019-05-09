@@ -1,14 +1,14 @@
-// Blizzard
+# > Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 USER-AGENT,Blizzard*
 USER-AGENT,wowcompanion*
 
-// Pokemon
+# > Pokemon
 USER-AGENT,pokemonquest*
 
-// Steam
+# > Steam
 # DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 # DOMAIN-SUFFIX,steamcommunity.com

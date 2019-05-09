@@ -1,4 +1,4 @@
-// Custom
+# > Custom
 DOMAIN-SUFFIX,devmate.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -9,18 +9,18 @@ DOMAIN-SUFFIX,royalapplications.com
 USER-AGENT,Aweme*
 USER-AGENT,ASUS*
 
-// Spark
+# > Spark
 DOMAIN,usage.readdle.com
 USER-AGENT,Spark*
 PROCESS-NAME,Spark
 
-// Prior
+# > Prior
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,edu.cn
 
-// TeamViewer
+# > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
 IP-CIDR,185.188.33.0/24,no-resolve
 IP-CIDR,185.188.34.0/24,no-resolve
@@ -30,7 +30,7 @@ IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
 
-# Domestic
+# > Domestic
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net
@@ -116,7 +116,7 @@ DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,haosou.com
 DOMAIN-SUFFIX,hdchina.org
-​DOMAIN-SUFFIX,hdcmct.org
+DOMAIN-SUFFIX,hdcmct.org
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hxcdn.net
@@ -279,13 +279,13 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 
-// Beplay
-DOMAIN-KEYWORD,beplay
-
-// Client
+# > Client
 PROCESS-NAME,ss-local
 
-// UA
+# > Beplay
+DOMAIN-KEYWORD,beplay
+
+# > UA
 USER-AGENT,hide*
 USER-AGENT,MicroMessenger*
 USER-AGENT,PayPal*
@@ -295,7 +295,7 @@ USER-AGENT,ting_en
 USER-AGENT,WebTorrent*
 USER-AGENT,WeChat*
 
-// Accelerate direct sites
+# > Accelerate direct sites
 DOMAIN-KEYWORD,torrent
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com
