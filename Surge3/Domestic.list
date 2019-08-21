@@ -1,7 +1,8 @@
 # > Custom
 DOMAIN,exp.host
-DOMAIN-SUFFIX,devmate.com
+DOMAIN-SUFFIX,expo.io
 # DOMAIN-SUFFIX,exp.host
+DOMAIN-SUFFIX,devmate.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
