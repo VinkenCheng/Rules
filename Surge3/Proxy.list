@@ -21,6 +21,11 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
 
+# > V2EX
+DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-KEYWORD,dlercloud
+
 // Top blocked sites
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,4everProxy.com
@@ -391,7 +396,6 @@ DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sony.com.hk
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sourceforge.net
