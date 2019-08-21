@@ -1,7 +1,4 @@
 # > Custom
-DOMAIN,exp.host
-DOMAIN-SUFFIX,expo.io
-# DOMAIN-SUFFIX,exp.host
 DOMAIN-SUFFIX,devmate.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -12,6 +9,11 @@ DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,royalapplications.com
 USER-AGENT,Aweme*
 USER-AGENT,ASUS*
+
+# > expo
+DOMAIN,exp.host
+DOMAIN-SUFFIX,expo.io
+# DOMAIN-SUFFIX,exp.host
 
 # > Spark
 DOMAIN,usage.readdle.com

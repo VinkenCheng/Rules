@@ -4,6 +4,11 @@ DOMAIN,gist.github.com
 DOMAIN-SUFFIX,macserialjunkie.com
 DOMAIN-SUFFIX,01.org
 
+# > expo
+# DOMAIN,api.amplitude.com
+DOMAIN,api.segment.io
+# DOMAIN-SUFFIX,segment.io
+
 # > Spark
 DOMAIN,api.amplitude.com
 # DOMAIN-SUFFIX,amplitude.com
