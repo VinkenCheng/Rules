@@ -17,3 +17,11 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcontent.com
 USER-AGENT,Steam*
 PROCESS-NAME,steam_osx
+
+# > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+USER-AGENT,RemotePlay*
