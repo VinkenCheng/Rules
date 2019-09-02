@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,macserialjunkie.com
 DOMAIN-SUFFIX,01.org
 
 # > expo
+DOMAIN,exp.host
+DOMAIN-SUFFIX,expo.io
 # DOMAIN,api.amplitude.com
 DOMAIN,api.segment.io
 # DOMAIN-SUFFIX,segment.io

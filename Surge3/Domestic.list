@@ -11,8 +11,8 @@ USER-AGENT,Aweme*
 USER-AGENT,ASUS*
 
 # > expo
-DOMAIN,exp.host
-DOMAIN-SUFFIX,expo.io
+# DOMAIN,exp.host
+# DOMAIN-SUFFIX,expo.io
 # DOMAIN-SUFFIX,exp.host
 
 # > Spark
