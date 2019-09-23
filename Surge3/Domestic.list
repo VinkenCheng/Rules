@@ -1,10 +1,5 @@
 # > Custom
 DOMAIN-SUFFIX,devmate.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,royalapplications.com
 USER-AGENT,Aweme*

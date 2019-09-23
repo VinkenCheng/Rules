@@ -1,8 +1,15 @@
 # > Custom
 DOMAIN,registry.npmjs.org
-DOMAIN,gist.github.com
 DOMAIN-SUFFIX,macserialjunkie.com
 DOMAIN-SUFFIX,01.org
+
+# > GitHub
+DOMAIN,gist.github.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
 
 # > expo
 DOMAIN,exp.host
