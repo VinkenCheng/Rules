@@ -35,12 +35,10 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
 
-# > V2EX
-DOMAIN-SUFFIX,dler.cloud
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-KEYWORD,dlercloud
+# > Zooba
+USER-AGENT,battleroyale*
 
-// Top blocked sites
+# > Top blocked sites
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,4everProxy.com
 DOMAIN-SUFFIX,4shared.com
