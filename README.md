@@ -72,7 +72,7 @@ Surge：https://xteko.com/redir?name=Rules-lhie1&url=https://raw.githubuserconte
 ### Remote Files
 
 ````
-Shadowrocket：https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf
+Shadowrocket：https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket/Complete.conf
 
 
 Quantumult_Filter：https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult.conf
@@ -92,7 +92,7 @@ iOS 9 以上的系统都需要在安装证书后到关于本机里信任证书�
 
 1. 安装：
 * Surge：配置 - 编辑配置 - HTTPS 解密 - 安装证书
-* Shadowrocket：设置 - 证书 - 安装证书
+* Shadowrocket：配置 - 选中Shadowrocket.conf编辑配置 - HTTPS解密 - 开启HTTPS解密 - 安装证书
 * Quantumult：Settings - HTTPS - HTTPS Decryption
 
 2. 信任：

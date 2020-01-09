@@ -22,7 +22,7 @@ DOMAIN,api.segment.io
 DOMAIN,api.amplitude.com
 # DOMAIN-SUFFIX,amplitude.com
 DOMAIN,app.smartmailcloud.com
-# DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,hockeyapp.net
 
@@ -427,7 +427,6 @@ DOMAIN-SUFFIX,sydneytoday.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
-DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,tablesgenerator.com
 DOMAIN-SUFFIX,tabtter.jp
@@ -436,12 +435,10 @@ DOMAIN-SUFFIX,talkboxapp.com
 DOMAIN-SUFFIX,talkonly.net
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
-DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,teddysun.com
-DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,thebobs.com
 DOMAIN-SUFFIX,theinitium.com
@@ -562,8 +559,6 @@ DOMAIN-SUFFIX,wikileaks-forum.com
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,workflow.is
@@ -657,7 +652,6 @@ DOMAIN-KEYWORD,facebook
 // DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
-DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,google
@@ -754,10 +748,3 @@ IP-CIDR,74.86.0.0/16,no-resolve
 IP-CIDR,75.126.0.0/16,no-resolve
 IP-CIDR,174.37.0.0/16,no-resolve
 IP-CIDR,208.43.0.0/16,no-resolve
-
-# > Telegram
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,149.154.164.0/22,no-resolve

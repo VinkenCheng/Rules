@@ -265,8 +265,6 @@ DOMAIN-SUFFIX,bfshan.cn
 # REJECT
 
 # > Client
-PROCESS-NAME,Jietu
-
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,admdfs
 DOMAIN-KEYWORD,adnewnc
@@ -3445,7 +3443,6 @@ DOMAIN-SUFFIX,fancyapi.com
 DOMAIN-SUFFIX,fanqianbb.com
 DOMAIN-SUFFIX,fans.bestvogue.com
 DOMAIN-SUFFIX,fansi365.com
-DOMAIN-SUFFIX,fanxing.kugou.com
 DOMAIN-SUFFIX,fan-yong.com
 DOMAIN-SUFFIX,farm-cn.plista.com
 DOMAIN-SUFFIX,fastable.com
@@ -4804,7 +4801,6 @@ DOMAIN-SUFFIX,liangao.com
 DOMAIN-SUFFIX,liangziweixg.com
 DOMAIN-SUFFIX,lib.haotv8.com
 DOMAIN-SUFFIX,liba.haotv8.com
-DOMAIN-SUFFIX,libs.baidu.com
 DOMAIN-SUFFIX,libs.tvmao.cn
 DOMAIN-SUFFIX,license.lumion3d.com
 DOMAIN-SUFFIX,license.lumion3d.net
@@ -5565,7 +5561,6 @@ DOMAIN-SUFFIX,mssp.baidu.com
 DOMAIN-SUFFIX,mstat.zol.com.cn
 DOMAIN-SUFFIX,mstzym.com
 DOMAIN-SUFFIX,msypr.com
-DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,mti.35kds.com
 DOMAIN-SUFFIX,mtj.baidu.com
 DOMAIN-SUFFIX,mtl.ttsqgs.com
@@ -8313,7 +8308,6 @@ URL-REGEX,https?://\w+.beacon.qq.com
 URL-REGEX,https?://\w+.cloudfront.net/banner
 URL-REGEX,https?://\w+.gdt.qq.com
 URL-REGEX,https?://\w+.kingsoft-office-service.com
-URL-REGEX,https?://\w{1,2}.l.qq.com
 URL-REGEX,https?://9377\w{2}.com
 URL-REGEX,https?://a0b\w{2}.com
 URL-REGEX,https?://(a?d|sax)\d.sina.com
