@@ -281,7 +281,6 @@
 - DOMAIN-KEYWORD,duomeng,AdBlock
 - DOMAIN-KEYWORD,dwtrack,AdBlock
 - DOMAIN-KEYWORD,fenxi,AdBlock
-- DOMAIN-KEYWORD,googleads,AdBlock
 - DOMAIN-KEYWORD,guanggao,AdBlock
 - DOMAIN-KEYWORD,inmobi,AdBlock
 - DOMAIN-KEYWORD,lianmeng,AdBlock
@@ -915,7 +914,6 @@
 - DOMAIN-SUFFIX,ad.bitmedia.io,AdBlock
 - DOMAIN-SUFFIX,ad.bjmama.net,AdBlock
 - DOMAIN-SUFFIX,ad.cacafly.com,AdBlock
-- DOMAIN-SUFFIX,ad.caiyunapp.com,AdBlock
 - DOMAIN-SUFFIX,ad.cctv.com,AdBlock
 - DOMAIN-SUFFIX,ad.cooks.com,AdBlock
 - DOMAIN-SUFFIX,ad.crichd.in,AdBlock
@@ -1546,7 +1544,6 @@
 - DOMAIN-SUFFIX,api.ra2.xlmc.sec.miui.com,AdBlock
 - DOMAIN-SUFFIX,api.rees46.com,AdBlock
 - DOMAIN-SUFFIX,api.rideraid.net,AdBlock
-- DOMAIN-SUFFIX,api.sec.miui.com,AdBlock
 - DOMAIN-SUFFIX,api.share.mob.com,AdBlock
 - DOMAIN-SUFFIX,api.shuzilm.cn,AdBlock
 - DOMAIN-SUFFIX,api.similarweb.com,AdBlock
@@ -1822,7 +1819,6 @@
 - DOMAIN-SUFFIX,bbsimages.zkxf119.com,AdBlock
 - DOMAIN-SUFFIX,bc.geocities.yahoo.co.jp,AdBlock
 - DOMAIN-SUFFIX,bccyyc.com,AdBlock
-- DOMAIN-SUFFIX,bce.baidu.com,AdBlock
 - DOMAIN-SUFFIX,bcjjg.bugsevent.com,AdBlock
 - DOMAIN-SUFFIX,bcjxf.bugsevent.com,AdBlock
 - DOMAIN-SUFFIX,bd.ershenghuo.com,AdBlock
@@ -1979,7 +1975,6 @@
 - DOMAIN-SUFFIX,breezily168.com,AdBlock
 - DOMAIN-SUFFIX,brizads.com,AdBlock
 - DOMAIN-SUFFIX,bro.flyme.cn,AdBlock
-- DOMAIN-SUFFIX,browser.gwdang.com,AdBlock
 - DOMAIN-SUFFIX,bryonypie.com,AdBlock
 - DOMAIN-SUFFIX,bs.5442.com,AdBlock
 - DOMAIN-SUFFIX,bs.serving-sys.com,AdBlock
@@ -2415,7 +2410,6 @@
 - DOMAIN-SUFFIX,cocounion.com,AdBlock
 - DOMAIN-SUFFIX,cod.southmoney.com,AdBlock
 - DOMAIN-SUFFIX,code.3shangyou.com,AdBlock
-- DOMAIN-SUFFIX,code.createjs.com,AdBlock
 - DOMAIN-SUFFIX,code.fastclick.net,AdBlock
 - DOMAIN-SUFFIX,code.hajuwang.cn,AdBlock
 - DOMAIN-SUFFIX,code.hot-mob.com,AdBlock
@@ -3737,7 +3731,6 @@
 - DOMAIN-SUFFIX,global.msads.net,AdBlock
 - DOMAIN-SUFFIX,global.ymtracking.com,AdBlock
 - DOMAIN-SUFFIX,gm682.com,AdBlock
-- DOMAIN-SUFFIX,gma.alicdn.com,AdBlock
 - DOMAIN-SUFFIX,gma1.com,AdBlock
 - DOMAIN-SUFFIX,gmota.g188.net,AdBlock
 - DOMAIN-SUFFIX,gmtdmp.mookie1.com,AdBlock
@@ -5932,7 +5925,6 @@
 - DOMAIN-SUFFIX,pcsoftwords.dftoutiao.com,AdBlock
 - DOMAIN-SUFFIX,pcxzo.pluto.sogou.com,AdBlock
 - DOMAIN-SUFFIX,pd7-imp.revsci.net,AdBlock
-- DOMAIN-SUFFIX,pdc.micloud.xiaomi.net,AdBlock
 - DOMAIN-SUFFIX,pdfexpert.cc,AdBlock
 - DOMAIN-SUFFIX,pdl.gionee.com,AdBlock
 - DOMAIN-SUFFIX,pdsjycm.com,AdBlock
@@ -6409,7 +6401,6 @@
 - DOMAIN-SUFFIX,rotate.ymtracking.com,AdBlock
 - DOMAIN-SUFFIX,rotator.tradetracker.net,AdBlock
 - DOMAIN-SUFFIX,router.bittorrent.com,AdBlock
-- DOMAIN-SUFFIX,router.gwdang.com,AdBlock
 - DOMAIN-SUFFIX,rovio-news-app.angrybirdsgame.com,AdBlock
 - DOMAIN-SUFFIX,rp.crasheye.cn,AdBlock
 - DOMAIN-SUFFIX,rp.gwallet.com,AdBlock
@@ -8560,6 +8551,7 @@
 - DOMAIN-SUFFIX,hbo.com,GlobalTV
 - DOMAIN-SUFFIX,hboasia.com,GlobalTV
 - DOMAIN-SUFFIX,hbogo.com,GlobalTV
+- DOMAIN-SUFFIX,hbogoasia.com,GlobalTV
 - DOMAIN-SUFFIX,hbogoasia.hk,GlobalTV
 
 # > Hulu
@@ -8602,7 +8594,10 @@
 - DOMAIN-SUFFIX,spoti.fi,GlobalTV
 
 # > viuTV
+- DOMAIN-SUFFIX,cloudfront.net,GlobalTV
+- DOMAIN-SUFFIX,viu.com,GlobalTV
 - DOMAIN-SUFFIX,viu.tv,GlobalTV
+- DOMAIN-SUFFIX,viu.now.com,GlobalTV
 
 # > Youtube
 - DOMAIN-KEYWORD,youtube,GlobalTV
@@ -8662,19 +8657,6 @@
 - IP-CIDR,193.112.159.225/32,Netease Music
 - IP-CIDR,223.252.199.66/32,Netease Music
 - IP-CIDR,223.252.199.67/32,Netease Music
-
-
-
-# > Apple
-- DOMAIN,Apple.comscoreresearch.com,Apple
-- DOMAIN-SUFFIX,Apple.cn,Apple
-- DOMAIN-SUFFIX,Apple.com,Apple
-- DOMAIN-SUFFIX,Apple.news,Apple
-- DOMAIN-SUFFIX,icloud.com,Apple
-- DOMAIN-SUFFIX,icloud-content.com,Apple
-- DOMAIN-SUFFIX,itunes.com,Apple
-- DOMAIN-SUFFIX,me.com,Apple
-- DOMAIN-SUFFIX,mzstatic.com,Apple
 
 
 
@@ -9067,6 +9049,7 @@
 - DOMAIN-SUFFIX,scribd.com,Proxy
 - DOMAIN-SUFFIX,search.com,Proxy
 - DOMAIN-SUFFIX,servebom.com,Proxy
+- DOMAIN-SUFFIX,sexinsex.net,Proxy
 - DOMAIN-SUFFIX,sfx.ms,Proxy
 - DOMAIN-SUFFIX,shadowsocks.org,Proxy
 - DOMAIN-SUFFIX,shadowverse.jp,Proxy
@@ -9238,6 +9221,7 @@
 - DOMAIN-SUFFIX,westca.com,Proxy
 - DOMAIN-SUFFIX,westpoint.edu,Proxy
 - DOMAIN-SUFFIX,whatbrowser.org,Proxy
+- DOMAIN-SUFFIX,wikiwand.com,Proxy
 - DOMAIN-SUFFIX,wikileaks.info,Proxy
 - DOMAIN-SUFFIX,wikileaks.org,Proxy
 - DOMAIN-SUFFIX,wikileaks-forum.com,Proxy
@@ -9714,8 +9698,21 @@
 - IP-CIDR,1.255.62.0/24,Domestic
 
 
-- DOMAIN,dler.cloud,DIRECT
 
+# > Apple
+- DOMAIN,Apple.comscoreresearch.com,Apple
+- DOMAIN-SUFFIX,Apple.cn,Apple
+- DOMAIN-SUFFIX,Apple.com,Apple
+- DOMAIN-SUFFIX,Apple.news,Apple
+- DOMAIN-SUFFIX,icloud.com,Apple
+- DOMAIN-SUFFIX,icloud-content.com,Apple
+- DOMAIN-SUFFIX,itunes.com,Apple
+- DOMAIN-SUFFIX,me.com,Apple
+- DOMAIN-SUFFIX,mzstatic.com,Apple
+
+
+
+- DOMAIN,dler.cloud,DIRECT
 
 # > Private Tracker
 - DOMAIN-SUFFIX,awesome-hd.me,DIRECT
