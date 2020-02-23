@@ -1,10 +1,13 @@
 # > Custom
 DOMAIN,registry.npmjs.org
-DOMAIN-SUFFIX,macserialjunkie.com
 DOMAIN-SUFFIX,01.org
+DOMAIN-SUFFIX,itorrents.org
+DOMAIN-SUFFIX,macserialjunkie.com
 
 # > GitHub
+DOMAIN,codeload.github.com
 DOMAIN,gist.github.com
+DOMAIN-SUFFIX,codeload.github.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
@@ -18,14 +21,6 @@ DOMAIN-SUFFIX,expo.io
 DOMAIN,api.segment.io
 # DOMAIN-SUFFIX,segment.io
 
-# > Spark
-DOMAIN,api.amplitude.com
-# DOMAIN-SUFFIX,amplitude.com
-DOMAIN,app.smartmailcloud.com
-DOMAIN-SUFFIX,smartmailcloud.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,hockeyapp.net
-
 # > Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
@@ -34,6 +29,14 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
+
+# > Spark
+DOMAIN,api.amplitude.com
+# DOMAIN-SUFFIX,amplitude.com
+DOMAIN,app.smartmailcloud.com
+DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
 
 # > Zooba
 USER-AGENT,battleroyale*
@@ -68,6 +71,7 @@ DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,api.mixpanel.com
+DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tiktokv.com
 DOMAIN-SUFFIX,api.urbandictionary.com
 DOMAIN-SUFFIX,apigee.com
@@ -394,7 +398,6 @@ DOMAIN-SUFFIX,sidelinesnews.com
 DOMAIN-SUFFIX,simp.ly
 DOMAIN-SUFFIX,simplenote.com
 DOMAIN-SUFFIX,sketchappsources.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-msgs.com
