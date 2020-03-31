@@ -16,12 +16,6 @@ DOMAIN,usage.readdle.com
 USER-AGENT,Spark*
 PROCESS-NAME,Spark
 
-# > PayPal
-USER-AGENT,PayPal*
-DOMAIN-KEYWORD,paypal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
-
 # > Microsoft
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,bing.com
@@ -138,6 +132,7 @@ DOMAIN-SUFFIX,fir.im
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,fresh-ideas.cc
+DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,goodread.com
@@ -285,7 +280,6 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xitek.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xslb.net
-DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,yach.me
 DOMAIN-SUFFIX,yeepay.com
@@ -304,18 +298,15 @@ DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 
 # > Client
-PROCESS-NAME,ss-local
+
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
 
 # > UA
-USER-AGENT,hide*
 USER-AGENT,MicroMessenger*
-USER-AGENT,PayPal*
 USER-AGENT,TeamViewer*
 USER-AGENT,TIM*
-USER-AGENT,ting_en
 USER-AGENT,WebTorrent*
 USER-AGENT,WeChat*
 

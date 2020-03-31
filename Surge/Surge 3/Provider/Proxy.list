@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,allconnected.co
 DOMAIN-SUFFIX,amazon.co
+DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
@@ -124,6 +125,7 @@ DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,celestrak.com
@@ -205,7 +207,6 @@ DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gabia.net
 DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,get.how
 DOMAIN-SUFFIX,getcloudapp.com
@@ -580,6 +581,7 @@ DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
 DOMAIN-SUFFIX,xiti.com
+DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
@@ -663,22 +665,9 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,google
 
 # > Client
-PROCESS-NAME,Backup and Sync
-PROCESS-NAME,Day One
-PROCESS-NAME,Dropbox
-PROCESS-NAME,LINE
-PROCESS-NAME,node-webkit
-PROCESS-NAME,Resilio Sync
-PROCESS-NAME,Tweetbot
-PROCESS-NAME,Twitter
-PROCESS-NAME,Twitterrific
+
 
 # > UA
-USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
-USER-AGENT,AwemeI18n*
-USER-AGENT,Coinbase*
-USER-AGENT,Instagram*
-USER-AGENT,Resilio Sync*
 USER-AGENT,WhatsApp*
 
 # > Amazon
