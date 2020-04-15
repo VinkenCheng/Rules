@@ -1,5 +1,5 @@
-#!name=Bahamut
-#!desc=Bahamut animation app removes ads.
+#!name = Bahamut
+#!desc = （gamer.com.tw 巴哈姆特）Bahamut animation app removes ads.
 
 [Script]
 Bahamut = type=http-request,pattern=https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v3\/token\.php,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bahamut.js
