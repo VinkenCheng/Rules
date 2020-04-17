@@ -1,7 +1,7 @@
 # > Fast
 DOMAIN-SUFFIX,fast.com
 
-# > Speedtest
+# > Speedtest by Ookla
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip.sb
@@ -13,4 +13,5 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,ooklaserver.net
 PROCESS-NAME,Speedtest
 USER-AGENT,Speedtest*
+USER-AGENT,SpeedTest*
 // DOMAIN-KEYWORD,speedtest

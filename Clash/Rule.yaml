@@ -2175,7 +2175,6 @@
 - DOMAIN-SUFFIX,cca.mob.com,AdBlock
 - DOMAIN-SUFFIX,ccb.uncle-ad.com,AdBlock
 - DOMAIN-SUFFIX,ccbaihehq.com,AdBlock
-- DOMAIN-SUFFIX,ccclub.cmbchina.com,AdBlock
 - DOMAIN-SUFFIX,cccrir.com,AdBlock
 - DOMAIN-SUFFIX,ccr.yxdown.com,AdBlock
 - DOMAIN-SUFFIX,cctyly.com,AdBlock
@@ -9596,7 +9595,8 @@
 # > Fast
 - DOMAIN-SUFFIX,fast.com,Speedtest
 
-# > Speedtest
+# > Speedtest by Ookla
+# - USER-AGENT,SpeedTest*
 - DOMAIN-KEYWORD,speedtest,Speedtest
 - DOMAIN-SUFFIX,ooklaserver.net,Speedtest
 
