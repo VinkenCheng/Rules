@@ -1,3 +1,25 @@
+# > Custom
+DOMAIN,registry.npmjs.org
+DOMAIN-SUFFIX,01.org
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,itorrents.org
+DOMAIN-SUFFIX,macserialjunkie.com
+
+# > GitHub
+DOMAIN,codeload.github.com
+DOMAIN,gist.github.com
+DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# > expo
+DOMAIN,exp.host
+DOMAIN-SUFFIX,expo.io
+DOMAIN,api.segment.io
+
 # > TestFlight
 DOMAIN,testflight.apple.com
 
@@ -16,10 +38,11 @@ DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,riotgames.com
 
 # > Spark
-DOMAIN-SUFFIX,api.amplitude.com
-DOMAIN-SUFFIX,app.smartmailcloud.com
-DOMAIN-SUFFIX,gate.hockeyapp.net
+DOMAIN,api.amplitude.com
+DOMAIN,app.smartmailcloud.com
 DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
 
 # > Tesla
 DOMAIN-KEYWORD,tesla
@@ -46,7 +69,6 @@ DOMAIN-SUFFIX,allconnected.co
 DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
@@ -89,8 +111,6 @@ DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,bbtoystore.com
 DOMAIN-SUFFIX,betvictor.com
 DOMAIN-SUFFIX,bigsound.org
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.do
@@ -139,7 +159,6 @@ DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,comodoca.com
-DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,cygames.jp
@@ -188,7 +207,6 @@ DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
-DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flipboard.com
@@ -234,7 +252,6 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hitun.io
-DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,howtoforge.com
@@ -254,8 +271,6 @@ DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,instructables.com
 DOMAIN-SUFFIX,io.io
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipaddress.com
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,ishowsapp.com
@@ -304,7 +319,6 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
-DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mlssoccer.com
@@ -324,8 +338,6 @@ DOMAIN-SUFFIX,nextmedia.com
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,nrk.no
@@ -335,7 +347,6 @@ DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,nytstyle.com
-DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
@@ -419,7 +430,6 @@ DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,sowers.org.hk
-DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spike.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssa.gov
@@ -618,18 +628,6 @@ DOMAIN-SUFFIX,zeutch.com
 DOMAIN-SUFFIX,zynamics.com
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-USER-AGENT,WhatsApp*
-
-DOMAIN-KEYWORD,appledaily
-DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,abc.xyz
@@ -660,7 +658,6 @@ DOMAIN-SUFFIX,kobobooks.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pubnub.com
@@ -676,10 +673,20 @@ DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webrtc.org
 
-# > V2EX
-DOMAIN-SUFFIX,v2ex.com
+# > Keyword
+DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,google
 
-DOMAIN-KEYWORD,dlercloud
+# > Client
+
+
+# > UA
+USER-AGENT,WhatsApp*
 
 # > Amazon
 IP-CIDR,13.32.0.0/16,no-resolve

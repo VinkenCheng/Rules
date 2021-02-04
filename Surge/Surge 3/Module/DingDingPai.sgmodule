@@ -1,0 +1,7 @@
+#!name = Ding Ding Pai
+#!desc = 盯盯拍记录仪 Wi-Fi 热点
+#!system = ios
+
+[General]
+skip-proxy = %APPEND% 193.168.0.0/16
+tun-excluded-routes = %APPEND% 193.168.0.0/16

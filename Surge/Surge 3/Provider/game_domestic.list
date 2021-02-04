@@ -1,0 +1,27 @@
+# > Blizzard
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+USER-AGENT,wowcompanion*
+USER-AGENT,hearthstone*
+USER-AGENT,Blizzard*
+
+# > Steam
+DOMAIN-SUFFIX,steamcontent.com
+USER-AGENT,Steam*
+
+# > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+USER-AGENT,RemotePlay*
+
+# > Netmarble Future Fight
+DOMAIN-SUFFIX,netmarble.com
+DOMAIN-SUFFIX,netmarble.com.cn
+
+# > Pokemon
+USER-AGENT,pokemonquest*

@@ -1,5 +1,5 @@
 #!name=Wi-Fi Assist
-#!desc=Surge will try to set up a connection with cellular data when the Wi-Fi network is poor.
+#!desc=如果 Wi-Fi 信号弱或网络异常，会在 2 秒后尝试使用数据网络建立连接，非无限流量不建议开启
 #!system=ios
 
 [General]

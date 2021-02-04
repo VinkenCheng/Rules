@@ -1,12 +1,14 @@
-# > Beplay
-DOMAIN-KEYWORD,beplay
+# > Custom
+DOMAIN-SUFFIX,devmate.com
+DOMAIN-SUFFIX,ngrok.com
+DOMAIN-SUFFIX,royalapplications.com
+USER-AGENT,Aweme*
+USER-AGENT,ASUS*
 
-# > Blizzard
-USER-AGENT,hearthstone*
-DOMAIN,cdp.cloud.unity3d.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
+# > Spark
+DOMAIN,usage.readdle.com
+USER-AGENT,Spark*
+PROCESS-NAME,Spark
 
 # > Prior
 DOMAIN,client.amplifi.com
@@ -17,14 +19,6 @@ DOMAIN-SUFFIX,edu.cn
 # > RRYS
 DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,zmzfile.com
-
-# > Sony
-USER-AGENT,RemotePlay*
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
