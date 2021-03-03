@@ -1,6 +1,9 @@
 # > Fast
 DOMAIN-SUFFIX,fast.com
 
+# > iStat Menus
+DOMAIN-SUFFIX,ip.istatmenus.app
+
 # > Speedtest
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ip.cn
